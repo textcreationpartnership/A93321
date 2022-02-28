@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeal to the consciences of the chief magistrates of this Commonvvealth, touching the Sabbath-day: as held forth in a book intituled, Articles of religion approved and passed by both Houses of Parliament, after advice had with the Assembly of Divines, &amp;c. Printed in the year 1648. As also in another book intituled, The grounds and principles of religion, contained in a short catechism, &amp;c. And published by the same order. By William Saller, and John Spittlehouse, in the behalf of themselves and several others, who think themselves obliged to observe the seventh day of the week, for the Lords holy Sabbath ...</title>
+            <author>Saller, William, d. ca. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93321</idno>
+            <idno type="STC">Wing S397</idno>
+            <idno type="STC">Thomason E909_8</idno>
+            <idno type="STC">ESTC R203443</idno>
+            <idno type="EEBO-CITATION">99863397</idno>
+            <idno type="PROQUEST">99863397</idno>
+            <idno type="VID">115596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115596)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E909[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeal to the consciences of the chief magistrates of this Commonvvealth, touching the Sabbath-day: as held forth in a book intituled, Articles of religion approved and passed by both Houses of Parliament, after advice had with the Assembly of Divines, &amp;c. Printed in the year 1648. As also in another book intituled, The grounds and principles of religion, contained in a short catechism, &amp;c. And published by the same order. By William Saller, and John Spittlehouse, in the behalf of themselves and several others, who think themselves obliged to observe the seventh day of the week, for the Lords holy Sabbath ...</title>
+                  <author>Saller, William, d. ca. 1680.</author>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The grounds and principles" is the Shorter catechism of the Westminster Assembly.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "May 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Thirty-nine Articles --  Early works to 1800.</term>
+               <term>Church of England --  Creeds --  Early works to 1800.</term>
+               <term>Westminster Assembly (1643-1652). --  Shorter catechism --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+               <term>Sabbath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115596:1" rendition="simple:additions"/>
+            <p>An APPEAL To the Conſciences of the chief Magiſtrates of this COMMONVVEALTH, touching the Sabbath-day: As held forth in a Book Intituled, <hi>Articles of Religion ap<g ref="char:EOLhyphen"/>proved and paſsed by both Houſes of Parliament, after advice had with the Aſſembly of Divines,</hi> &amp;c. Printed in the year 1648.</p>
+            <p>As alſo In another Book Intituled, <hi>The Grounds and Principles of Religion, contained in a Short Catechiſm,</hi> &amp;c. And publiſhed by the ſame Order.</p>
+            <p>By <hi>William Saller,</hi> and <hi>John Spittlehouſe,</hi> In the behalf of themſelves and ſeveral others, who think themſelves ob<g ref="char:EOLhyphen"/>liged to obſerve the ſeventh Day of the week, for the Lords Holy Sabbath, as in the fourth Commandment of the Royal-Law of Jehovah, <hi>Exod.</hi> 20. 8, 9, 10, 11.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 119. 46.</hi>
+               </bibl>
+               <p>I will ſpeak thy teſtimonies alſo before Kings, and will not be aſhamed.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 15.6, 9.</hi>
+               </bibl>
+               <p>Thus have ye made the Commandment of God of none effect, by your tradition: but in vain do ye worſhip me, teaching for doctrines the commandments of men.</p>
+            </q>
+            <p>Printed for the Author, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115596:2"/>
+            <pb n="3" facs="tcp:115596:2"/>
+            <head>An APPEAL to the Conſciences of the chief Magiſtrates of this Commonwealth, touching the Sabbath-Day, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>IN as much as the 35 Article of the preſent Government, doth grant liberty to confute <hi>Error</hi> and <hi>Hereſie,</hi> and whatſoever is contrary to ſound D ctrine: We have therefore (as obliged in Duty, and Conſcience, <hi>Lev.</hi> 19.17. <hi>Luk.</hi> 22.23.) taken upon us to preſent unto you (as the moſt propereſt Judges in this matter) wherein the Per<g ref="char:EOLhyphen"/>ſons mentioned in the Title-Page, have erred in their judge<g ref="char:EOLhyphen"/>ment, touching the Lords holy Sabbath. And to the end you may the better diſcern the ſaid error, and be there<g ref="char:EOLhyphen"/>by induced to reform the ſame: We ſhall in the firſt place lay before you, what they have aſſerted touching the Law, in which the ſaid Sabbath is included. In Pag. 19. of that Book of Articles (as in the Title Page) they have ingenu<g ref="char:EOLhyphen"/>ouſly and chriſtianly confeſſed,</p>
+            <p n="1">1. <q rend="margQuotes">That God gave to <hi>Adam</hi> a Law, as a Covenant of Works, by which he bound him, and all his Poſterity, to Perſonal, Entire, Exact, and Perpetual <hi>Obedience;</hi> promi<g ref="char:EOLhyphen"/>ſing life upon the fulfilling, and threatning death upon the breach of it; and indowed him with Power and Abi<g ref="char:EOLhyphen"/>lity to keep it, <hi>Gen.</hi> 1.26, 27. with <hi>Gen.</hi> 2.17. <hi>Rom.</hi> 2.14, 15. <hi>Rom.</hi> 5.12, 19. <hi>Gal.</hi> 3.10, 11. <hi>Eccleſ.</hi> 7.29. <hi>Job</hi> 28.28.</q>
+            </p>
+            <pb n="4" facs="tcp:115596:3"/>
+            <p n="2">2. <q rend="margQuotes">That this Law, after his fall, continued to be a <hi>Per<g ref="char:EOLhyphen"/>fect Rule of Righteouſneſs,</hi> and <hi>ſuch</hi> as was delivered by God in Mount <hi>Sinai</hi> in ten Commandments, and written in two Tables, <hi>Jam.</hi> 1.25. &amp; 28, 10, 11, 12. <hi>Rom.</hi> 3.8, 9. <hi>Deut.</hi> 5 32. &amp; 104. <hi>Exod.</hi> 34.1. The four firſt Command<g ref="char:EOLhyphen"/>ments, containing our duty towards God, and the other ſix our duty to Man, <hi>Mat.</hi> 22.37, 38, 39, 40.</q>
+            </p>
+            <p n="3">3. <q rend="margQuotes">That the Law (commonly called Moral) doth <hi>for ;ever,</hi> binde all, as well juſtified Perſons, as other, to the obedience thereof, <hi>Rom.</hi> 13 8, 9, 10 <hi>Eph.</hi> 6.2. 1 <hi>Joh.</hi> 2.3, 4, 7, 8. and that not onely in regard of the Matter contained in it, but alſo in reſpect of the Authority of God the Crea<g ref="char:EOLhyphen"/>tor, who gave it, <hi>Jam.</hi> 2.8 <hi>Rom.</hi> 3.31. neither doth Chriſt in the Goſpel any way diſſolve, but much ſtrengthen the <hi>Obligation,</hi> Mat. 5.17, 18, 19. Jam. 2.8. Rom. 3 31.</q>
+            </p>
+            <p n="4">4. <q rend="margQuotes">That although true Believers be not under the <hi>Law,</hi> as a Covenant of Works, to be thereby juſtified or con<g ref="char:EOLhyphen"/>demned, <hi>Rom.</hi> 6.14. <hi>Gal.</hi> 2.16. &amp; 3.13. &amp; 4.4, 5. <hi>Act.</hi> 13 32. <hi>Rom.</hi> 8.1. yet it is of great uſe to them, as well as to others, in that as a Rule of Life, it informs them of the will of God and their Duty, it directs and binds them to walk accordingly, <hi>Rom.</hi> 7 12, 22, 25. <hi>Pſa.</hi> 119.4, 5, 6. 1 <hi>Cor.</hi> 7.19. Gal. 5.14, 16, 18, 19, 20, 21, 22, 23. diſcovering al<g ref="char:EOLhyphen"/>ſo the ſinful pollutions of their Nature, Hearts, and Lives, <hi>Rom.</hi> 7.7. &amp; 3.20. ſo as examining themſelves thereby, they may come to a further conviction of, and humiliation for, and hatred againſt ſin, <hi>Jam.</hi> 1.23, 24. <hi>Rom</hi> 7.9, 14, 24. together with a cleer ſight of the need they have of Chriſt, and the perfection of his obedience, <hi>Gal.</hi> 3.24. Rom. 7.24, 25. &amp; 8.3, 4. It is likewiſe of uſe to regenerate, and to re<g ref="char:EOLhyphen"/>ſtrain their corruptions, in that it forbids ſin, <hi>Jam.</hi> 2.11. <hi>Pſal.</hi> 119.101, 104, 128. and the threatning of it to ſerve to ſhew what, even their ſins deſerve, and what af<g ref="char:EOLhyphen"/>flictions in this life they may expect for them, although freed from the curſe thereof, threatned in the Law, <hi>Ezra</hi> 9.13, 14 <hi>Pſal.</hi> 89 31, 32, 33, 34. The promiſes of it in like manner ſhew them Gods approbation of <hi>obedience,</hi> and what bleſſing they may expect upon the performance
+<pb n="5" facs="tcp:115596:3"/>thereof, <hi>Levit.</hi> 26.1, 10, 14. with 2 <hi>Cor.</hi> 6.16. <hi>Eph.</hi> 6.2, 3. <hi>Pſal.</hi> 37.11. with <hi>Mat.</hi> 5.5. <hi>Pſal.</hi> 19.11. although not due unto them by the Law, as a Covenant of Works, <hi>Gal.</hi> 2.16. <hi>Luk</hi> 17.10. ſo as a mans doing good, and refraining from evil, becauſe the Law incourageth to the one, and deterreth from the other, is no evidence of his being under the Law, and not under Grace, <hi>Rom.</hi> 6.12, 14. 1 <hi>Pet.</hi> 3.8, 9, 10, 11, 12. with <hi>Pſal.</hi> 44.12, 13, 14, 15, 16. <hi>Heb.</hi> 12.22, 29.</q>
+            </p>
+            <p n="5">5. <q rend="margQuotes">That the forementioned Uſes of the Law, are not contrary to the grants of the Goſpel, but do ſweetly com<g ref="char:EOLhyphen"/>ply with it, <hi>Gal.</hi> 3.21. the ſpirit of Chriſt ſubduing and inabling the will of man to do that freely and cheerfully, which the will of God requireth to be done, <hi>Ezek.</hi> 36.27. <hi>Heb.</hi> 8.10. with <hi>Jer.</hi> 31.33.</q>
+            </p>
+            <p>In all which expreſſions, we acknowledge our ſelves to be of the ſame judgement with them. Again, as touching the obſervation of the ſeventh Day Sabbath, in Cap. 21. of the forenamed Book, page 35. they uſe theſe following words.</p>
+            <p>
+               <q rend="margQuotes">As it is the Law of Nature, that in general a due pro<g ref="char:EOLhyphen"/>portion of time be ſet apart for the worſhip of God; ſo in his Word, by a poſitive, Moral and perpetual command<g ref="char:EOLhyphen"/>ment, binding all men in all ages, he hath particularly ap<g ref="char:EOLhyphen"/>pointed one Day in Seven, for a Sabbath to be kept holy unto him, <hi>Exod.</hi> 20 8, 10, 11. <hi>Iſa.</hi> 56.2, 4, 6, 7. which from the beginning of the World, unto the Reſurrection of Chriſt, was the laſt day of the week. Again, in pag. 16. of the Catechiſm mentioned in the Title Page, they alſo acknowledge, That the fourth Commandment requireth the keeping holy to God ſuch a ſet time, as he hath ap<g ref="char:EOLhyphen"/>pointed in his Word; expreſly one whole day in ſeven, to be a holy Sabbath to himſelf; and that from the begin<g ref="char:EOLhyphen"/>ning of the world, to the Reſurrection of Chriſt, God ap<g ref="char:EOLhyphen"/>pointed the ſeventh Day of the week, to be the weekly Sabbath.</q>
+            </p>
+            <p>And in this particular alſo, we judge they have dealt far
+<pb n="6" facs="tcp:115596:4"/>more candidly then moſt of theſe will do, who pretend to a higher diſpenſation.</p>
+            <p>Having thus ſhewed you their judgements in reference to the Moral Law, and the Sabbath therein conteined, we ſhall in the next place recite the Scriptures they urge to prove a <hi>change</hi> of the ſaid Sabbath day unto the firſt Day of the week, <hi>viz.</hi> 1 <hi>Cor.</hi> 16.2. <hi>Act.</hi> 20.7. <hi>Rev.</hi> 1.10. But before we ſhall ſpeak thereunto, we firſt conceive it meet to ſhew you the groſs abſurdities that will follow, if the ſaid Texts make ſuch a change of the Sabbath, as pretend<g ref="char:EOLhyphen"/>ed: For,</p>
+            <p n="1">1. If the <hi>Law</hi> written in mans heart by Nature, were ſuch a Law, by which <hi>Adam</hi> and all his Poſterity were bound, Perſonally, Entirely, and Exactly unto a perpetual <hi>obedience</hi> thereunto, as they have confeſſed: And if the Day that God inſtituted for a Sabbath, <hi>Gen.</hi> 2.2, 3. was the ſame <hi>Day</hi> that God intended Man ſhould obſerve, in that Law of Nature he had written in his heart, <hi>Rom.</hi> 2.14, 15. as certainly none will deny the Day of the commemora<g ref="char:EOLhyphen"/>tion of the Creation to be, in that there could be no grea<g ref="char:EOLhyphen"/>ter ingagement in Nature, to keep a Sabbath-day: Then it will follow, That if the ſaid Texts do make a change of that Sabbath-day (as they pretend they do) then they plainly make a change of that Perſonal, Entire, Exact, and Perpetual <hi>obedience,</hi> required by God in the Law of Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p n="2">2. If the Law written in mans heart by Nature, conti<g ref="char:EOLhyphen"/>nued after the fall of <hi>Adam,</hi> to be a perfect Rule of Righ<g ref="char:EOLhyphen"/>teouſneſs to all his Poſterity, both toward God and their neighbors, as they have granted: Then it will follow, That this perfect Rule of Righteouſneſs became in part imperfect at the Reſurrection of Chriſt: for otherwiſe, what needed the Sabbath day, which was <hi>part</hi> of that perfect Rule of Righteouſneſs, and had ſo continued from the Creation until that time, admit of a change by the Reſur<g ref="char:EOLhyphen"/>rection of Chriſt, as they pretend it did?</p>
+            <p n="3">3. If the ſaid Law, ſo written in Mans heart by Nature,
+<pb n="7" facs="tcp:115596:4"/>was the <hi>ſame</hi> which was afterward renewed in Mount <hi>Si<g ref="char:EOLhyphen"/>nai</hi> in ten Commandments, and written in two Tables, do for ever binde all, as well juſtified perſons as others, to the <hi>obedience</hi> thereof, in regard of the Matter contained therein, as alſo in reſpect of the Authority of God the Crea<g ref="char:EOLhyphen"/>tor, who gave it: Then if the three Texts urged by them, do make a change of the Sabbath day, then they cleerly change the Matter in the Law, where it is ſaid, <hi>The ſeventh Day is the Sabbath,</hi> &amp;c. as alſo of the Authority of the one Lawgiver, <hi>Jam</hi> 4.12. who gave that Law; as alſo plainly contradict what the ſaid Perſons have <hi>affirmed,</hi> Namely, That Chriſt in the Goſpel doth not <hi>any way</hi> diſſolve, but <hi>much ſtrengthen</hi> the Obligation of juſtified Perſons and others, to their obedience to the Matter required in the ſaid Law, and that from <hi>Mat.</hi> 5.17, 18, 19. <hi>Jam.</hi> 2.8. and Rom. 3.31.</p>
+            <p>But leſt that which hath been ſaid, ſhould not give you full ſatisfaction as to the Matter in difference: we ſhall in the next place reply to theſe three Texts apart, and ſo ſhew the invalidneſs thereof, to what they urge them to prove.</p>
+            <p>Firſt, 1 <hi>Cor.</hi> 16.2. doth not in the leaſt preſuppoſe a Congre<g ref="char:EOLhyphen"/>gation gathered together to have the Word preached, or Sa<g ref="char:EOLhyphen"/>craments adminiſtred; for the Text ſaith the cleer con<g ref="char:EOLhyphen"/>trary, <hi>i. e.</hi> Let every one lay aſide by himſelf, as God hath proſpered him: which doth cleerly evidence, That the A<g ref="char:EOLhyphen"/>poſtle ſpake not of giving forth their liberality by way of <hi>Collection,</hi> but of laying up by a mans ſelf <hi>Singularly,</hi> as a man doth when he is at home: which moyety ſo laid up apart by themſelves, was afterward to be given to thoſe Meſſengers, whom they ſhould afterward approve of by their Letters; which Perſons the Apoſtle promiſed to ſend unto them, to receive it from them: ſo that the <hi>Collection</hi> was to be afterward by the Apoſtles Meſſengers; but on what day they ſo collected it, is altogether uncertain: Wherefore we conceive this Text doth not tend in the leaſt to change the Sabbathday, inſtituted by God, to the Firſt-day of the week.</p>
+            <pb n="8" facs="tcp:115596:5"/>
+            <p n="2">2. The Apoſtle <hi>Paul's</hi> preaching at <hi>Troas, Act.</hi> 20.7. was extraordinary, and no preſident (he being to depart the next day) for otherwiſe Miniſters of the Goſpel are there<g ref="char:EOLhyphen"/>by obliged to preach every Firſt day of the week until mid<g ref="char:EOLhyphen"/>night; and then break bread afterward. Secondly, it is queſtionable, whether the breaking of bread there menti<g ref="char:EOLhyphen"/>oned, is to he underſtood of the Lords-ſupper, ſeeing the interpreters refer that Text to <hi>Act.</hi> 2.46. where it is ſaid, That the Church brake bread Dayly, from houſe to houſe; and conſequently upon other Days, as on the Firſt-day of the week. Thirdly, If the adminiſtration of the Lords Sup<g ref="char:EOLhyphen"/>per, be an unerring mark of the Sabbath-day, then the Day called <hi>Thurſday</hi> is the Sabbath-day, if Chriſts example be as binding as they would have <hi>Pauls</hi> to be in this place, the firſt inſtitution therof being of a <hi>Thurſday</hi> night. It is clear alſo, that <hi>Philip</hi> baptized the eunuch upon a travelling day, <hi>Act.</hi> 8.36, 37, 38. <hi>&amp;c.</hi> and that preaching is alſo no certain mark of a Sabbath-day, appeareth, in that the Apoſtle <hi>Paul</hi> ex<g ref="char:EOLhyphen"/>horted <hi>Timothy</hi> to preach in ſeaſon and out of ſeaſon, 2 <hi>Tim.</hi> 4.2. which doth admit of Day or Night, and of other Days, as on the Sabbath-day.</p>
+            <p>It behooved them therefore to have proved, firſt, That the Apoſtle <hi>Paul</hi> preached then at <hi>Troas,</hi> in obedience to the fourth Commandment: Secondly, That the ſeventh day Sabbath from the Creation, was then <hi>changed</hi> to the Firſt-day of the week; and <hi>when,</hi> and <hi>where,</hi> and by <hi>whom,</hi> and upon what account it was ſo changed: Thirdly, they ſhould have ſhewed us as plain a Commandment for the keeping of the firſt day of the week, upon the account of the Reſurrection of Chriſt, as there was for the keeping of the ſeventh Day of the week, upon the account of the Fini<g ref="char:EOLhyphen"/>niſhing of the Creation; and that by the ſame Authority by which the former Sabbath was injoyned, as in <hi>Gen.</hi> 2.2, 3. &amp; <hi>Exod.</hi> 20.8, 9, 10, 11. there being but one Law-gi<g ref="char:EOLhyphen"/>ven, as hath been ſhewed: Fourthly, They ſhould have ſhewed ſome Preſident, where <hi>one</hi> or <hi>more</hi> of the Apoſtles of Chriſt did preach two firſt Days immediately and ſuc<g ref="char:EOLhyphen"/>ceſſively one following the other, and in <hi>obedience</hi> to the
+<pb n="9" facs="tcp:115596:5"/>fourth Commandment (or otherwiſe) For a ſingle action, if they could prove it, is no Practice.</p>
+            <p>All, or any of which, we are aſſured is impoſſible for them to prove from the Holy Scriptures; And therefore in the three Texts ſo urged by them, they plainly beg the Que<g ref="char:EOLhyphen"/>ſtion, <hi>i. e.</hi> that the Firſt-day of the week is the Sabbath; which is denied them by us, and which we have juſt grounds to do, in that the Apoſtle <hi>Paul,</hi> who (albeit the greateſt oppoſer of ceremonies of all the Apoſtles) did conſtantly preach upon the ſeventh Day of the week; and that after the Reſurrection of Chriſt, as appeareth from <hi>Act.</hi> 13.14, 42, 44. &amp; 16 13. &amp; 17.2. &amp; 18.4. as alſo, in that we read not in the leaſt, that any of the other Apoſtles did ever neglect the obſervation of the ſeventh Day of the week, as injoyned in the fourth Commandment, and therefore we dare not but judge, they walked in obedi<g ref="char:EOLhyphen"/>ence thereunto; as alſo, in that the Lord Jeſus affirmeth that he that breaks the leaſt of them Commandments, <hi>&amp;c.</hi> ſhall be called leaſt in the Kingdom of Heaven; as alſo in that the Apoſtle <hi>James</hi> affirmeth that he that faileth in his obedience to any one point of the Royal-Law, hath thereby made himſelf guilty of the breach of the whole Law: ſo that we are bold to conclude they were no <hi>Sab<g ref="char:EOLhyphen"/>bath-breakers.</hi> From all which, with ſeveral other Reaſons we might have urged, we deny that <hi>Act.</hi> 20.7. proveth any thing, as to what they have urged it.</p>
+            <p n="3">3. The Firſt-day of the week is not ſo much as mention<g ref="char:EOLhyphen"/>ed in <hi>Rev.</hi> 1.10. Secondly, the Lords-day there named, may be aſcribed unto all that time, wherein <hi>John</hi> was con<g ref="char:EOLhyphen"/>verſant in that Revelation, which probably was of a longer continuance, then one Natural or Artificial Day: Thirdly, If it muſt needs be applied to ſuch a Day, then why not more properly to the ſeventh-Day Sabbath, as in the fourth Commandment, then to the Firſt-day of the week? Seeing Jehovah himſelf there ſtileth the ſeventh Day to be his Sabbath, <hi>Exod.</hi> 20.10. <hi>But the ſeventh Day is the Sabbath of the Lord thy God,</hi> &amp;c. <hi>vid.</hi> alſo, <hi>Iſa.</hi> 58 13. yea,
+<pb n="10" facs="tcp:115596:6"/>the Lord Jeſus himſelf ſpeaking of the ſeventh-Day Sabbath (afore named) profeſſeth himſelf to be the Lord thereof, <hi>Mark</hi> 2.27, 28. <hi>Luk.</hi> 6.5. Therefore the Son of Man is <hi>Lord</hi> alſo of the Sabbath-day. Fourthly, Why may not the Day commonly called <hi>Chriſtmaſs-day,</hi> or <hi>Good-friday,</hi> or <hi>Aſ<g ref="char:EOLhyphen"/>cenſion-day,</hi> be as properly ſtiled the Lords-day, as the Day called <hi>Eaſter-day?</hi> Fifthly, Neither this Text, or the two former, have any tendency to the Reſurrection of Chriſt, more then that he aroſe from the Grave on the Firſt-day of the week; and conſequently, of no more force to prove a change of the Sabbath, inſtituted by God, then the Day of Chriſts-birth, or Paſſion, or Aſcention, hath to change it to the Days they happened to fall on, for any thing that the Scripture doth attribute to the day of Chriſts Reſurrection, more then to any of the other. Sixthly, The Rhemiſts upon this Text of <hi>Rev.</hi> 1.10. do ingenuouſly ac<g ref="char:EOLhyphen"/>knowledge, That the Church made a change of the Sabbath, from the Seventh-day unto the Firſt-day in the week; and that without <hi>all Scripture,</hi> or commandment of Chriſt, that they read of. <q rend="margQuotes">Yea (ſay they) which is more, not onely otherwiſe then he ordained in the <hi>firſt Creation,</hi> but plain<g ref="char:EOLhyphen"/>ly otherwiſe then was preſcribed by God himſelf in the Commandment: yea, and otherwiſe then he ordained in the <hi>firſt Creaetion,</hi> when he ſanctified preciſely the Sab<g ref="char:EOLhyphen"/>bath-day, and not the Day following.</q> To which may be added the Teſtimony of Doct. <hi>Prideaux,</hi> in his work upon the Sabbath, where he querieth ſaying, <q rend="margQuotes">Where is the leaſt mention of Surrogating the Firſt-day of the week, in Room of the Sabbath? or where among the Evangeliſts, is there any diſtinct inſtitution of the Lords-day, or where will you neceſſarily prove it?</q> Mr. <hi>Bond</hi> alſo ſpeaking of the change of the Sabbath, concludeth, that it was an Ec<g ref="char:EOLhyphen"/>cleſiaſtical conſtitution, and not an Apoſtolical precept: to which may be added the Teſtimonies of ſeveral other Wri<g ref="char:EOLhyphen"/>ters to the ſame purpoſe. Doct. <hi>Willet</hi> alſo, in his Comment. upon <hi>Exodus,</hi> ſpeaking of the changing of the Sabbath, ur<g ref="char:EOLhyphen"/>geth <hi>
+                  <g ref="char:V">Ʋ</g>rſinus</hi> to prove, That the Church did it, <hi>ut ſe à Ju<g ref="char:EOLhyphen"/>daica
+<pb n="11" facs="tcp:115596:6"/>ſynagoga diſcerneret, That they might be diſcerned from the Jewiſh Synagogues:</hi> which we conceive to be a very weak Argument, to change a Moral and perpetual Command<g ref="char:EOLhyphen"/>ment of God, binding all men in all ages: As the foremen<g ref="char:EOLhyphen"/>tioned perſons have granted it to be.</p>
+            <p>All which being ſeriouſly weighed and conſidered by you, <hi>we appeal unto your Conſciences,</hi> whether it be not the duty of all Chriſtians to obey the poſitive command of the one Law-giver, rather then the determinations of Parliaments and Synods, without any warrant from the Word of God. Seeing the Lord Jeſus himſelf hath declared it to be a vain worſhip, where the Commandments of men are made Doctrinal, <hi>Mat.</hi> 15.9. as alſo in that the Apoſtles of Chriſt did publickly oppoſe the Rulers, Elders, and Scribes, upon the like account, <hi>Act.</hi> 4.18, 19, 20. And ſeeing you have ingaged to eſtabliſh the Chriſtian Religion, <hi>contained in the Scriptures,</hi> Article 35 of the preſent Government; and ſee<g ref="char:EOLhyphen"/>ing Jehovah himſelf, hath ſo plainly determined which of the ſeven Days in the week, he will have us to obſerve for his Sabbath; and that by three notable Characters, <hi>i. e.</hi> the Sabbath-day, the Seventh-day; and that Seventh-day where on he himſelf reſted, <hi>Exod.</hi> 20.10, 11. which reaſon cannot be given for any other Day in the week, the ſe<g ref="char:EOLhyphen"/>venth Day and the Sabbath-day, both pointing at the very ſame day and time; ſo that take away one, and take away both; and grant one, and grant both, they being like the Name, Jeſus and Chriſt, which both belong to one Perſon. And ſeeing the Lord Jeſus and his Apoſtles, have as much ratified and eſtabliſhed the fourth Commandment, in every jot and title thereof, as of any other of the nine, <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> 5.17, 18, 19. <hi>Romans</hi> 3.31. <hi>James</hi> 2.10, 11. We cannot but ſtand in admiration, that you ſhould take upon you (being poor Mortals, and ſuch as Jehovah can deſtroy in a moment) to countenance, and much more to eſtabliſh <hi>ſuch a Day</hi> for the Lords holy Sabbath, as hath no warrant from the Scriptures (as hath been ſhewed) and to reſtrain the people of this Commonwealth from
+<pb n="12" facs="tcp:115596:7"/>working on that Day, wherein Jehovah himſelf hath commanded, or at leaſt, freely permitted them to la<g ref="char:EOLhyphen"/>bour in, <hi>Exodus</hi> 20.9. and to grant free liberty to work on that Day, in which he hath poſitively commanded them to ceaſe from their labour, <hi>Exod.</hi> 20.10.</p>
+            <p>And therefore it doth doubtleſs very neerly concern you to conſider your preſent condition in this matter, ſee<g ref="char:EOLhyphen"/>ing it will no more avail you at the Day of Account, to ſay you have obſerved <hi>a</hi> Sabbath in ſtead of <hi>the</hi> Sabbath, then it will be for the Heathen to ſay they have wor<g ref="char:EOLhyphen"/>ſhipped <hi>a</hi> god, inſtead of <hi>the</hi> true God; Or no more then it will excuſe <hi>Jeroboam,</hi> to ſay, That he kept the fifteenth day of the eighth moneth, even the moneth that he deviſed of his own heart, <hi>&amp;c.</hi> 1 <hi>Kings</hi> 12.33.</p>
+            <p>Secondly, In hat it is as much a changing of the Truth of God into a lie, as in any other action of the Man of ſin, 2 <hi>Theſ.</hi> 2.4, <hi>&amp;c.</hi> it being <hi>a grand Character</hi> of the <hi>man of ſin</hi> to change Times and Laws, <hi>Dan.</hi> 7.25.</p>
+            <p>All which we hope the Ingagement you have taken, will be a means to incline you to hearken to what hath bin ſaid: And hoping you have been better learned, then to reject good advice, though tendered by contemptible Perſons; We do hereby, in Gods ſtead, exhort you to re<g ref="char:EOLhyphen"/>duce the Lords holy Sabbath to its proper Day: which you may do without the leaſt prejudice to the people, if you will but remove the Markets and Fairs, which fall on that Day, to ſome other day in the week: which until you have done, you do not onely live your ſelves in a ma<g ref="char:EOLhyphen"/>nifeſt diſobedience to the fourth Commandment, but are alſo a grand Cauſe of the peoples living in the ſame ſin, and that by reaſon of the ſtrict injunction you lay for the obſervation of the Firſt-day of the week; many not being able to leave their callings two Days in a week; and therefore, albeit convinced of the truth of the ſe<g ref="char:EOLhyphen"/>venth Day to be the Lords Sabbath, yet are by reaſon thereof, neceſſitated to break the Lords Sabbath, and to obſerve that of Mans erecting. O remember the brand
+<pb n="13" facs="tcp:115596:7"/>fixed on <hi>Jeroboam,</hi> namely, That he ſinned, and cauſed Iſ<g ref="char:EOLhyphen"/>rael to ſin.</p>
+            <p>We are alſo perſwaded, That if the Clergy of this Nation<g ref="char:punc">▪</g> would ſet themſelves conſcionably to preach from <hi>Exod.</hi> 20.8, 9, 10, 11. they might in a very ſhort time convince the judgement of their Congregations; ſo as that they would willingly ſhake off the traditional Sabbath, and yield a filial obedience to the true Sabbath, in caſe the aforenamed impediments were removed, and free liberty granted to all that have a deſire to obſerve the ſe<g ref="char:EOLhyphen"/>venth day of the week for their Sabbath, to work on their callings on the Firſt-day of the week, which God him<g ref="char:EOLhyphen"/>ſelf hath permitted them to do, as hath been ſhew<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Which if done, it would be a means to remove a great ſtumbling-block to the Jews, who make it an Ar<g ref="char:EOLhyphen"/>gument (that Chriſt is not the Meſſiah) becauſe Chriſtians, who profeſs themſelves to be his followers, are Sabbath-breakers; concluding from thence<g ref="char:punc">▪</g> that Chriſt himſelf was a Sabbath-breaker and conſequently a ſinner; and if ſo then there can be no benefit by his blood.</p>
+            <p>Again, as the change of the Sabbath to the Firſt-day of the week, was chiefly done to raiſe a wall of partition betwixt the Gentiles and the Jews (as hath been ſhew<g ref="char:EOLhyphen"/>ed) ſo we hope the pulling down of that wall will be a preparative to the accompliſhing of thoſe glorious Pro<g ref="char:EOLhyphen"/>pheſies, which hold forth the unity which ſhall be be<g ref="char:EOLhyphen"/>twixt Jew and Gentile: as our Saviour himſelf hath fore<g ref="char:EOLhyphen"/>told, <hi>Joh.</hi> 10 16. as alſo the Apoſtle <hi>Paul, Rom.</hi> 11.25, 26, <hi>&amp;c.</hi> and <hi>Rev. chap.</hi> 7. which ſurely ought to be the earneſt deſire of all the people of God, and eſpecially of ſuch as are in a waiting poſture to ſee the fulfilling thereof; and moſt of all, by ſuch as profeſs themſelves to be the Rulers and Paſtors to ſuch a people, as you and the Clergy of this Nation account your ſelves to be.</p>
+            <p>But if after all the praying for the converſion of the Jews, and having now power in your hands to further it, you are
+<pb n="14" facs="tcp:115596:8"/>yet reſolved not onely to continue this ſtumbling-block be<g ref="char:EOLhyphen"/>fore them, but alſo to harden your hearts, and blinde the eyes of your underſtanding, becauſe this wholeſom advice is not tendered unto you, by the great Potentates and learn<g ref="char:EOLhyphen"/>ed Rabbies of the Nation: Yet we hope by what we have here ſpoken, we have delivered our own ſouls from what will follow thereon, having faithfully diſcharged our du<g ref="char:EOLhyphen"/>ty herein, both towards God and our Neighbor.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Errata, <hi>for grants, read graces,</hi> Pag. 5. li. 11.</p>
+            <pb facs="tcp:115596:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
